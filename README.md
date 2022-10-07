@@ -3,7 +3,7 @@
 
 
 Titanic data set classified with RandomForest after some Future engineering.
-This sets predictions have a score of 	
+This sets predictions have a score of
 "Score: 0.78708"
 
 <h3 align="left">Connect with me:</h3>
